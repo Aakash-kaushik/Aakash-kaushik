@@ -3,7 +3,10 @@
 <p align="center">
 <a href="mailto:kaushikaakash7539@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" height="60px" width="60px" alt="Gmail" > </a>
 <a href="https://www.linkedin.com/in/kaushikaakash7539/"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-128.png" height="60px" width="60px" alt="LinkedIn"></a>
-<a href="https://sourcerer.io/aakash-kaushik"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="60px" width="60px alt="Sourcerer"></a>          
+<a href="https://sourcerer.io/aakash-kaushik"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="60px" width="60px alt="Sourcerer"></a>
+<a href="https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=NpVR2X_rQlKyYlRLk9bdgA"><img src="https://www.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png" height="60px" width="60px alt="Sourcerer"></a> 
+</p>
+
 <!--
 **Aakash-kaushik/Aakash-kaushik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
