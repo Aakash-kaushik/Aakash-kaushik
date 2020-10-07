@@ -6,3 +6,8 @@
   <a href="https://sourcerer.io/aakash-kaushik"><img src="https://sourcerer.io/icons/logo-sharing.svg" height="60px" width="60px alt="Sourcerer"></a>
   <a href="https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=NpVR2X_rQlKyYlRLk9bdgA"><img src="https://www.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png" height="60px" width="60px alt="Sourcerer"></a> 
 </p>
+<p>
+  <h4>Currently Listening to 🎧</h4> 
+</p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nu45gm4u9aahlsxhzt2vpige5&cover_image=false)](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5)
