@@ -10,4 +10,6 @@
   <h4>Currently Listening to 🎧</h4> 
 </p>
 
-[<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=nu45gm4u9aahlsxhzt2vpige5&cover_image=false">](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5)
+<p align="center">
+<a href="https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=nu45gm4u9aahlsxhzt2vpige5&cover_image=false"></a>
+</p>
