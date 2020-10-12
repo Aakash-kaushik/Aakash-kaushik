@@ -1,5 +1,13 @@
 <h2 align="center"> Hi Fellow Human 🙋‍♂️ </h2>
-<h3> Where to find me </h3> 
+
+
+### About me 
+* Currently working on: Contributing to [mlpack](https://github.com/Aakash-kaushik/mlpack)
+* Skills : Machine Learning | Deep Learning
+* Languages: I primarily work with C++ and Python
+* Resume: Have a [look](https://drive.google.com/file/d/1hkTWEbOnbyHzqnL_k_-bhjbEDPornPW9/view?usp=sharing)
+
+<h4> Where to find me </h4> 
 <p align="center">
   <a href="mailto:kaushikaakash7539@gmail.com?subject = Hello from your GitHub README&body = Message"><img src="https://www.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" height="60px" width="60px" alt="Gmail" ></a>
   <a href="https://www.linkedin.com/in/kaushikaakash7539/"><img src="https://www.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-128.png" height="60px" width="60px" alt="LinkedIn"></a>
