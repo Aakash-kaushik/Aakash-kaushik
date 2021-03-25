@@ -9,7 +9,7 @@
 ## Professional Experience 
  
  1. Deep learning Researcher at [NimbleBox.ai](https://www.nimblebox.ai/) - Oct 2020 -> Present
- 2. Deep Learning Engineer at [Maviox Solutions](https://www.mavoix.in/) - May 20202 -> Aug 2020
+ 2. Deep Learning Engineer at [Maviox Solutions](https://www.mavoix.in/) - May 2020 -> Aug 2020
 
 ## Projects 
 
