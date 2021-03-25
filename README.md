@@ -66,4 +66,4 @@ Psychology|[Music](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=M0
 
 <br/>
 
-<p align="center"><b>Thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">HER</a> for everything ❤️</b></p> 
+<p align="center"><b>Thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">HER</a> for everything</b></p> 
