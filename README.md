@@ -1,6 +1,6 @@
 <p align="left">
 <img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" width="100px" height="100px" alt="Aakash Kaushik" align="left">
-<h1>MACHINE LEARNING, CS STUDENT</h1>
+<h1>MACHINE LEARNING, CS STUDENT</h1><br>
 </p>
 
 ## Find me Here
@@ -64,4 +64,4 @@ deals with research in the field of Computational Biology, Artificial Intelligen
 
 Psychology|[Music](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=M0uZATdeSCGFirQP9WjjvQ) 
 
-<p align="center"><b> Special thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">HER</a> for everything ❤️</b></p> 
+<p align="center"><b> Special thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">HER</a> for everything</b></p> 
