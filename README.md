@@ -1,5 +1,5 @@
 
-<h1><img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" height="80px" width ="80px" alt="Aakash Kaushik", align="left" border-radius="50%"/>MACHINE LEARNING, CS STUDENT</h1>
+<h1><img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" height="100px" width ="100px" alt="Aakash Kaushik", align="left" border-radius="50%"/>MACHINE LEARNING, CS STUDENT</h1>
 
 ## Find me Here
 [LinkedIn](https://www.linkedin.com/in/kaushikaakash7539/)    |    <a href="mailto:kaushikaakash7539@gmail.com?subject=Hello from you homepage&body=Message">Mail</a>    |    [Spotify](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=NpVR2X_rQlKyYlRLk9bdgA) 
@@ -62,4 +62,4 @@ deals with research in the field of Computational Biology, Artificial Intelligen
 
 Psychology | [Music](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=M0uZATdeSCGFirQP9WjjvQ) 
 
-<p align="center"><b> Special thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">Smruti</a> for all the support</b></p> 
+<p align="center"><b> Special thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">HER</a> for all the support</b></p> 
