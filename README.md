@@ -1,5 +1,7 @@
-
-<h1><img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" height="100px" width ="100px" alt="Aakash Kaushik", align="left" border-radius="50%"/>MACHINE LEARNING, CS STUDENT</h1>
+<p align="left">
+<img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" height="100px" width ="100px" alt="Aakash Kaushik", align="left"></img>
+<h1>MACHINE LEARNING, CS STUDENT</h1>
+</p>
 
 ## Find me Here
 [LinkedIn](https://www.linkedin.com/in/kaushikaakash7539/)    |    <a href="mailto:kaushikaakash7539@gmail.com?subject=Hello from you homepage&body=Message">Mail</a>    |    [Spotify](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=NpVR2X_rQlKyYlRLk9bdgA) 
