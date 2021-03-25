@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" alt="Aakash Kaushik">
+<img src="https://github.com/Aakash-kaushik/Aakash-kaushik/blob/homepage/Me.png?raw=true" width="100px" height="100px" alt="Aakash Kaushik">
 <h1>MACHINE LEARNING, CS STUDENT</h1>
 </p>
 
