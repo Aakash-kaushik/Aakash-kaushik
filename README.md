@@ -34,7 +34,7 @@
 
 ## Skills
 
-Python | C++ | PyTorch | Tensorflow <br/> mlpack | Git | Computer Vision <br/> Natural language processing | Machine Learning and Deep learning
+Python | C++ | PyTorch | Tensorflow | mlpack | Git | Computer Vision | Natural language processing | Machine Learning and Deep learning
 
 ## Blog
 
