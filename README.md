@@ -63,7 +63,3 @@ deals with research in the field of Computational Biology, Artificial Intelligen
 ## Interests 
 
 Psychology|[Music](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=M0uZATdeSCGFirQP9WjjvQ) 
-
-<br/>
-
-<p align="center"><b>Thanks to <a href="https://www.linkedin.com/in/smrutiraushan/">HER</a> for everything</b></p> 
