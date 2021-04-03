@@ -64,4 +64,3 @@ deals with research in the field of Computational Biology, Artificial Intelligen
 
 Psychology|[Music](https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=M0uZATdeSCGFirQP9WjjvQ) 
 
-<p align="center"><b>Thank <a href="https://www.linkedin.com/in/smrutiraushan/">YOU</a> For Being There</b></p> 
