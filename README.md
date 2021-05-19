@@ -5,7 +5,7 @@
 * Currently working on: Contributing to [mlpack](https://github.com/Aakash-kaushik/mlpack) and Part-time at [NimbleBox](https://www.nimblebox.ai/)
 * Skills : Machine Learning | Deep Learning
 * Languages: I primarily work with C++ and Python
-* Resume: Have a [look](https://www.linkedin.com/in/kaushikaakash7539/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABUDl4wBWbz6xTFy7d7NS4EZS74Yls5oHeY,1635454002642)/)
+* Resume: Have a [look](https://www.linkedin.com/in/kaushikaakash7539/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABUDl4wBWbz6xTFy7d7NS4EZS74Yls5oHeY,1635457799315)/)
 
 <h4> Where to find me </h4> 
 <p align="center">
