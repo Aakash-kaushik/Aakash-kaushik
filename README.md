@@ -2,7 +2,7 @@
 
 
 ### About me 
-* Currently working on: Part-time at [NimbleBox](https://www.nimblebox.ai/)
+* Currently working: Part-time at [NimbleBox](https://www.nimblebox.ai/)
 * Resume: Have a [look](https://www.linkedin.com/in/kaushikaakash7539/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABUDl4wBWbz6xTFy7d7NS4EZS74Yls5oHeY,1635466839375)/)
 
 <h4> Where to find me </h4> 
