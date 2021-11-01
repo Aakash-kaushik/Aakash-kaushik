@@ -3,7 +3,7 @@
 
 ### About me 
 * Currently working: Part-time at [NimbleBox](https://www.nimblebox.ai/)
-* Resume: Have a [look](https://www.linkedin.com/in/kaushikaakash7539/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABUDl4wBWbz6xTFy7d7NS4EZS74Yls5oHeY,1635466839375)/)
+* Resume: Have a [look](https://github.com/Aakash-kaushik/Aakash-kaushik/blob/master/Resume.pdf)
 
 <h4> Where to find me </h4> 
 <p align="center">
