@@ -2,7 +2,7 @@
 
 
 ### About me 
-* Currently working: Part-time at [NimbleBox](https://www.nimblebox.ai/)
+* Working at [NimbleBox](https://www.nimblebox.ai/) | [optimeyes](https://optimeyes.ai/)
 * Resume: Have a [look](https://github.com/Aakash-kaushik/Aakash-kaushik/blob/master/Resume.pdf)
 
 <h4> Where to find me </h4> 
