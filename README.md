@@ -2,7 +2,7 @@
 
 
 ### About me 
-* Working at [NimbleBox](https://www.nimblebox.ai/) | [optimeyes](https://optimeyes.ai/)
+* Engineering at [NimbleBox](https://www.nimblebox.ai/)
 * Resume: Have a [look](https://github.com/Aakash-kaushik/Aakash-kaushik/blob/master/Resume.pdf)
 
 <h4> Where to find me </h4> 
