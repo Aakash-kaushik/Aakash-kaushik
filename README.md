@@ -11,10 +11,3 @@
     <a href="https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5?si=NpVR2X_rQlKyYlRLk9bdgA"><img src="./assets/spotify.svg" height="80px" width="80px" alt="Spotify"></a>
   <a href="https://www.linkedin.com/in/kaushikaakash7539/"><img src="./assets/linkedIn.svg" height="80px" width="80px" alt="LinkedIn"></a>
 </p>
-<p>
-  <h4>Currently Listening to 🎧</h4> 
-</p>
-
-<p align="center">
-<a href="https://open.spotify.com/user/nu45gm4u9aahlsxhzt2vpige5"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=nu45gm4u9aahlsxhzt2vpige5&cover_image=false"></a>
-</p>
