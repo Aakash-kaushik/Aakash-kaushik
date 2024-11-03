@@ -3,7 +3,7 @@
 
 ### About me 
 * Engineering at [NimbleBox](https://www.nimblebox.ai/)
-* Resume: Have a [look](https://github.com/Aakash-kaushik/Aakash-kaushik/blob/master/Resume.pdf)
+* Resume: Have a [look](https://github.com/Aakash-kaushik/Aakash-kaushik/blob/master/resume.pdf)
 
 <h4> Where to find me </h4> 
 <p align="center">
